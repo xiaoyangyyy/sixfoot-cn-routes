@@ -1,6 +1,6 @@
 # 六只脚城市轨迹（GPX）
 
-这些是 [六只脚](https://www.foooooot.com/) 上的公开行程。这一版先放已经下完的 **13 个城市**，共 **118,549 条**。
+这些是 [六只脚](https://www.foooooot.com/) 上的公开行程。这一版先放已经下完的 **17 个城市**，共 **147,971 条**。
 
 轨迹文件不在仓库正文里。每个城市一个压缩包，在 [Release v1](https://github.com/xiaoyangyyy/sixfoot-cn-routes/releases/tag/v1)。
 
@@ -31,3 +31,7 @@
 | Tianjin.zip | 天津 | 6,441 |
 | Qingdao.zip | 青岛 | 8,295 |
 | Dalian.zip | 大连 | 6,612 |
+| Shenyang.zip | 沈阳 | 7,689 |
+| Changsha.zip | 长沙 | 7,837 |
+| Zhengzhou.zip | 郑州 | 5,908 |
+| Xiamen.zip | 厦门 | 7,988 |
