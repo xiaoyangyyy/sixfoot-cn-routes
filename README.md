@@ -1,6 +1,6 @@
 # 六只脚城市轨迹（GPX）
 
-这些是 [六只脚](https://www.foooooot.com/) 上的公开行程。这一版先放已经下完的 **21 个城市**，共 **170,875 条**。
+这些是 [六只脚](https://www.foooooot.com/) 上的公开行程。30 个城市都已放上，共 **211,562 条**。
 
 轨迹文件不在仓库正文里。每个城市一个压缩包，在 [Release v1](https://github.com/xiaoyangyyy/sixfoot-cn-routes/releases/tag/v1)。
 
@@ -39,3 +39,12 @@
 | Hefei.zip | 合肥 | 6,424 |
 | Harbin.zip | 哈尔滨 | 4,579 |
 | Jinan.zip | 济南 | 6,316 |
+| Fuzhou.zip | 福州 | 8,826 |
+| Nanchang.zip | 南昌 | 5,019 |
+| Nanning.zip | 南宁 | 5,220 |
+| Guiyang.zip | 贵阳 | 3,031 |
+| Taiyuan.zip | 太原 | 3,855 |
+| Lanzhou.zip | 兰州 | 2,359 |
+| Changchun.zip | 长春 | 3,907 |
+| Haikou.zip | 海口 | 2,816 |
+| Ningbo.zip | 宁波 | 5,654 |
